@@ -14,7 +14,7 @@ public class ContarNumPar {
         System.out.println("Números pares até " + numero + ":");
         for (int i = 2; i <= numero; i += 2) {
             System.out.println(i);
-        }
+        } 
 
         sc.close();
     }
